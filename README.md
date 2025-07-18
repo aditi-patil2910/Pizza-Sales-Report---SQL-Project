@@ -8,13 +8,13 @@ The dataset is provided in CSV format and simulates a relational database struct
 
 The data is spread across four CSV files representing the following tables:
 
- **orders.csv**
+ **1. orders.csv**
  
- **order_details.csv**
+ **2. order_details.csv**
 
- **pizzas.csv**
+ **3. pizzas.csv**
  
- **pizza_type.csv**
+ **4. pizza_type.csv**
 
 ---
 
