@@ -6,6 +6,16 @@ The goal is to uncover key insights about revenue, bestsellers, category perform
 
 The dataset is provided in CSV format and simulates a relational database structure. All analysis is done by importing these CSV files into a SQL database.
 
+The data is spread across four CSV files representing the following tables:
+
+### `orders.csv`
+
+### `order_details.csv`
+
+### `pizzas.csv`
+
+### `pizza_type.csv`
+
 ---
 
 ## 🧩 Database Schema
